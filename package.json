@@ -1,0 +1,30 @@
+{
+  "name": "labvika10",
+  "version": "1.0.0",
+  "description": "Testing",
+  "main": "app.js",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "webpack-cli": "^3.1.2",
+    "webpack": "^4.21.0"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^0.1.19",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack-dev-server": "^3.1.9"
+  },
+  "scripts": {
+    "test": "jest",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielmar18/LabVika10.git"
+  },
+  "author": "Daníel Már",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielmar18/LabVika10/issues"
+  },
+  "homepage": "https://github.com/danielmar18/LabVika10#readme"
+}
